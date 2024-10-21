@@ -20,3 +20,5 @@
 <h2> Renember to use chmod +x name.sh </h2>
 <h2> Change the "name.sh" according to the files ^ above </h2>
 <p>To start the script</p>
+ Hi this is a fork dont report me Pls
+ 
